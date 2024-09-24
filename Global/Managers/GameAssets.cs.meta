@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: acaf4b9f77fc45d4a9ea9ff43ac7d65c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bulletTracerPf: {fileID: 4446065611976765316, guid: 698bf185956590b48b65503cee17522c, type: 3}
+  - pfDamagePopup: {instanceID: 0}
+  - pfBulletTrail: {instanceID: 0}
+  - bulletPf: {instanceID: 0}
+  - automaticImage: {instanceID: 0}
+  - burstImage: {instanceID: 0}
+  - shotgunImage: {instanceID: 0}
+  - pistolImage: {instanceID: 0}
+  - luncherImage: {instanceID: 0}
+  - rifleAmmoImage: {instanceID: 0}
+  - shotgunAmmoImage: {instanceID: 0}
+  - pistolAmmoImage: {instanceID: 0}
+  - luncherAmmoImage: {instanceID: 0}
+  - grenadeExplosionEffectPf: {instanceID: 0}
+  - smokeGrenadeExplosionEffectPf: {instanceID: 0}
+  - grenadePf: {instanceID: 0}
+  - smokeGrenadePf: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
